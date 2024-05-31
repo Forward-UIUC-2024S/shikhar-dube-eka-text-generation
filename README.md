@@ -30,7 +30,6 @@ shikhar-dube-ekatextgeneration/
         -- similar_sentence_embeddings_paraphraser.json
         -- guitarist_wiki_articles.json
     - LongFormIRP.ipynb
-    - requirements.txt
     - readme.md
 ```
 Important Files:
